@@ -112,8 +112,8 @@ var friends = [
 	]
 	},
 	{
-	"name": "Pocahontas",
-	"photo": "https://www.disneyclips.com/imagesnewb/images/pocahontas6.png",
+	"name": "Peter Pan",
+	"photo": "https://www.disneyclips.com/imagesnewb/images/peter4.png",
 	"scores": [
 	"3",
 	"3",
